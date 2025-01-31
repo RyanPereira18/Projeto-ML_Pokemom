@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'FlaskPokemomDeploy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4876B6FE5B7944148F344C652F8FC29D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90D7ED36A6A846BFBE316B72B8DCF902 }}
